@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-stomp-activemq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingsley-einstein/nodejs-stomp-activemq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingsley-einstein/nodejs-stomp-activemq/issues"
+  },
+  "homepage": "https://github.com/kingsley-einstein/nodejs-stomp-activemq#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "stompit": "^1.0.0"
+  }
+}
